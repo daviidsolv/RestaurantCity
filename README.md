@@ -7,7 +7,7 @@ Este proyecto es un remake del popular juego de Facebook, Restaurant City. El ob
 |-----|--------|
 |David Argente|[@crafian](https://github.com/crafian)|
 |Eric Lopez|[@ericlopezsegui](https://github.com/ericlopezsegui)|
-|Joan Bonell  |[@JoanBonell](https://github.com/JoanBonell|
+|Joan Bonell  |[@JoanBonell](https://github.com/JoanBonell)|
 
 #Descripción general de la lógica básica del juego
 
