@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "987641823490",
+    "project_id": "restaurantcity-b797e",
+    "storage_bucket": "restaurantcity-b797e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987641823490:android:962f7dd75a28a030d8821b",
+        "android_client_info": {
+          "package_name": "es.starfallstudios.restaurantcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987641823490-dhl4simdq2c4mfnfodl5jhlisne5lulr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VZePvqs-FOnF4QD6f9DFbgo87pF5uFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987641823490-dhl4simdq2c4mfnfodl5jhlisne5lulr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987641823490-072tr4bsskvtpvkgaol3jpkfh6og1lg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.starfallstudios.restaurantcity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
