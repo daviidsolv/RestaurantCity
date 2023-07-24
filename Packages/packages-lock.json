@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "com.github-glitchenzo.nugetforunity": {
+      "version": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6a2fa4841108431ad336e5cf32dbb5986cc78699"
+    },
+    "com.unity.ai.navigation": {
+      "version": "1.0.0-exp.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.burst": {
       "version": "1.8.2",
       "depth": 1,
@@ -10,7 +26,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "2.0.1",
+      "version": "2.0.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -24,7 +40,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.18",
+      "version": "3.0.20",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -56,7 +72,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "12.1.10",
+      "version": "12.1.11",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -66,14 +82,14 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "12.1.10",
+      "version": "12.1.11",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
         "com.unity.burst": "1.8.2",
-        "com.unity.render-pipelines.core": "12.1.10",
-        "com.unity.shadergraph": "12.1.10"
+        "com.unity.render-pipelines.core": "12.1.11",
+        "com.unity.shadergraph": "12.1.11"
       }
     },
     "com.unity.searcher": {
@@ -84,11 +100,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "12.1.10",
+      "version": "12.1.11",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "12.1.10",
+        "com.unity.render-pipelines.core": "12.1.11",
         "com.unity.searcher": "4.9.1"
       }
     },
